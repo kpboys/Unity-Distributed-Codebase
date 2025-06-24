@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>13-05-2025 - 11:15:38</Generatedon>
+    <Parser>MultiReportParser (4x OpenCoverParser)</Parser>
+    <Assemblies>6</Assemblies>
+    <Classes>20</Classes>
+    <Files>20</Files>
+    <Coveredlines>1073</Coveredlines>
+    <Uncoveredlines>899</Uncoveredlines>
+    <Coverablelines>1972</Coverablelines>
+    <Totallines>4192</Totallines>
+    <Linecoverage>54.4</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>121</Coveredmethods>
+    <Totalmethods>292</Totalmethods>
+    <Methodcoverage>41.4</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="EditModeTests" classes="1" coverage="100" coveredlines="58" coverablelines="58" totallines="103" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100">
+      <Class name="FlowerLightUnitTests" coverage="100" coveredlines="58" coverablelines="58" totallines="103" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="PlayModeTests" classes="2" coverage="97" coveredlines="294" coverablelines="303" totallines="488" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="22" totalmethods="24" methodcoverage="91.6">
+      <Class name="FlowerLightIntegrationTests" coverage="100" coveredlines="90" coverablelines="90" totallines="151" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="6" totalmethods="6" methodcoverage="100" />
+      <Class name="FunctionalTests" coverage="95.7" coveredlines="204" coverablelines="213" totallines="337" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="16" totalmethods="18" methodcoverage="88.8" />
+    </Assembly>
+    <Assembly name="StandardAssembly" classes="2" coverage="89" coveredlines="49" coverablelines="55" totallines="128" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="11" totalmethods="15" methodcoverage="73.3">
+      <Class name="DummyScript" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="FlowerLight" coverage="96" coveredlines="49" coverablelines="51" totallines="110" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="11" totalmethods="13" methodcoverage="84.6" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator" classes="3" coverage="60.2" coveredlines="474" coverablelines="787" totallines="1599" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="58" totalmethods="102" methodcoverage="56.8">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorControllerUI" coverage="91" coveredlines="102" coverablelines="112" totallines="253" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="13" totalmethods="13" methodcoverage="100" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorHandsUI" coverage="55.3" coveredlines="57" coverablelines="103" totallines="181" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="8" totalmethods="13" methodcoverage="61.5" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorUI" coverage="55" coveredlines="315" coverablelines="572" totallines="1165" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="37" totalmethods="76" methodcoverage="48.6" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets" classes="11" coverage="27.8" coveredlines="198" coverablelines="710" totallines="1725" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="26" totalmethods="141" methodcoverage="18.4">
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ActionBasedControllerManager" coverage="66.8" coveredlines="165" coverablelines="247" totallines="482" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="18" totalmethods="30" methodcoverage="60" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ClimbTeleportDestinationIndicator" coverage="27.2" coveredlines="18" coverablelines="66" totallines="143" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="13" methodcoverage="30.7" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DestroySelf" coverage="0" coveredlines="0" coverablelines="6" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider" coverage="22.5" coveredlines="14" coverablelines="62" totallines="189" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="13" methodcoverage="23" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.GazeInputManager" coverage="2.2" coveredlines="1" coverablelines="45" totallines="95" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="1" totalmethods="7" methodcoverage="14.2" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.IncrementUIText" coverage="0" coveredlines="0" coverablelines="11" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.MultiAnchorTeleportReticle" coverage="0" coveredlines="0" coverablelines="74" totallines="161" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="15" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ObjectSpawner" coverage="0" coveredlines="0" coverablelines="72" totallines="237" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="24" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RotationAxisLockGrabTransformer" coverage="0" coveredlines="0" coverablelines="16" totallines="44" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.TeleportVolumeAnchorAffordanceStateLink" coverage="0" coveredlines="0" coverablelines="37" totallines="94" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="5" methodcoverage="0" />
+      <Class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance" coverage="0" coveredlines="0" coverablelines="74" totallines="206" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="22" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor" classes="1" coverage="0" coveredlines="0" coverablelines="59" totallines="149" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0">
+      <Class name="UnityEditor.XR.Interaction.Toolkit.Samples.StarterAssetsSampleProjectValidation" coverage="0" coveredlines="0" coverablelines="59" totallines="149" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="6" methodcoverage="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2025-05-13_11-15-34" tag="">
+  <assembly name="EditModeTests">
+    <class name="FlowerLightUnitTests" coveredlines="58" coverablelines="58" totallines="103" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="PlayModeTests">
+    <class name="FlowerLightIntegrationTests" coveredlines="90" coverablelines="90" totallines="151" coveredbranches="0" totalbranches="0" />
+    <class name="FunctionalTests" coveredlines="204" coverablelines="213" totallines="337" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="StandardAssembly">
+    <class name="DummyScript" coveredlines="0" coverablelines="4" totallines="18" coveredbranches="0" totalbranches="0" />
+    <class name="FlowerLight" coveredlines="49" coverablelines="51" totallines="110" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator">
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorControllerUI" coveredlines="102" coverablelines="112" totallines="253" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorHandsUI" coveredlines="57" coverablelines="103" totallines="181" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.DeviceSimulator.XRDeviceSimulatorUI" coveredlines="315" coverablelines="572" totallines="1165" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets">
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ActionBasedControllerManager" coveredlines="165" coverablelines="247" totallines="482" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ClimbTeleportDestinationIndicator" coveredlines="18" coverablelines="66" totallines="143" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DestroySelf" coveredlines="0" coverablelines="6" totallines="29" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.DynamicMoveProvider" coveredlines="14" coverablelines="62" totallines="189" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.GazeInputManager" coveredlines="1" coverablelines="45" totallines="95" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.IncrementUIText" coveredlines="0" coverablelines="11" totallines="45" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.MultiAnchorTeleportReticle" coveredlines="0" coverablelines="74" totallines="161" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ObjectSpawner" coveredlines="0" coverablelines="72" totallines="237" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.RotationAxisLockGrabTransformer" coveredlines="0" coverablelines="16" totallines="44" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.TeleportVolumeAnchorAffordanceStateLink" coveredlines="0" coverablelines="37" totallines="94" coveredbranches="0" totalbranches="0" />
+    <class name="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.XRPokeFollowAffordance" coveredlines="0" coverablelines="74" totallines="206" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor">
+    <class name="UnityEditor.XR.Interaction.Toolkit.Samples.StarterAssetsSampleProjectValidation" coveredlines="0" coverablelines="59" totallines="149" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
